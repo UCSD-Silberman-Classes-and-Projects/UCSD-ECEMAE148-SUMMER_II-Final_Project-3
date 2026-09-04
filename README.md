@@ -356,19 +356,19 @@ Seven binary STLs in `stl-files/`. Every one is well under GitHub's 10 MB
 render limit, so **clicking any filename below opens GitHub's interactive 3D
 viewer** — drag to spin, right-drag to pan, scroll to zoom.
 
-| Part                                                                        | Bounding box      | Triangles | Size   |
-| --------------------------------------------------------------------------- | ----------------- | --------- | ------ |
-| [Front Part](stl-files/Front%20Part%28Print%29%20%281%29.stl)               | 221 × 241 × 67    | 3 580     | 175 KB |
-| [Back Part](stl-files/Back%20Part%28print%29%20%281%29.stl)                 | 222 × 162 × 60    | 3 972     | 194 KB |
-| [Side Part](stl-files/Side%20Part%28Print%29%20%281%29.stl)                 | 20 × 137 × 60     | 816       | 40 KB  |
-| [Front Cover](stl-files/Chuck_HIcks_Front%20cover%282%29%20%281%29.stl)     | 210 × 255 × 79    | 7 640     | 373 KB |
-| [Middle Cover](stl-files/Chuck%20Hicks_middle%20cover%282%29%20%284%29.stl) | 210 × 100 × 79    | 3 628     | 177 KB |
-| [Back Cover](stl-files/Chuck_hicks_back%20cover_reprint%20%281%29.stl)      | 210 × 147 × 75    | 9 094     | 444 KB |
-| [Lidar Mount](stl-files/Lidar%20Mount%28Trophy%29%20%282%29.stl)            | 5.3 × 3.6 × 4.0 ⚠ | 14 552    | 711 KB |
+| Part                                       | Bounding box      | Triangles | Size   |
+| ------------------------------------------ | ----------------- | --------- | ------ |
+| [Front Part](stl-files/front-bumper.stl)   | 221 × 241 × 67    | 3 580     | 175 KB |
+| [Back Part](stl-files/rear-bumper.stl)     | 222 × 162 × 60    | 3 972     | 194 KB |
+| [Side Part](stl-files/side-cover.stl)      | 20 × 137 × 60     | 816       | 40 KB  |
+| [Front Cover](stl-files/front-cover.stl)   | 210 × 255 × 79    | 7 640     | 373 KB |
+| [Middle Cover](stl-files/middle-cover.stl) | 210 × 100 × 79    | 3 628     | 177 KB |
+| [Back Cover](stl-files/rear-cover.stl)     | 210 × 147 × 75    | 9 094     | 444 KB |
+| [Lidar Mount](stl-files/lidar-mount.stl)   | 5.3 × 3.6 × 4.0 ⚠ | 14 552    | 711 KB |
 
 Bounding boxes are in model units; the six chassis parts are consistent with
 millimetres. **The Lidar Mount is not** — it is roughly 40× smaller than the
-parts it bolts to, so it was almost certainly exported in inches. Scale it
+parts it bolts to. Scale it
 before slicing.
 
 <details>
