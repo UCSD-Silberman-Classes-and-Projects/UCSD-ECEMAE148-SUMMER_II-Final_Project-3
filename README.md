@@ -376,7 +376,7 @@ before slicing.
 
 Front chassis section. Pairs with the Front Cover.
 
-[Open the 3D viewer →](stl-files/Front%20Part%28Print%29%20%281%29.stl)
+[Open the 3D viewer →](stl-files/front-bumper.stl)
 
 </details>
 
@@ -385,7 +385,7 @@ Front chassis section. Pairs with the Front Cover.
 
 Rear chassis section. Pairs with the Back Cover.
 
-[Open the 3D viewer →](stl-files/Back%20Part%28print%29%20%281%29.stl)
+[Open the 3D viewer →](stl-files/rear-bumper.stl.stl)
 
 </details>
 
@@ -395,7 +395,7 @@ Rear chassis section. Pairs with the Back Cover.
 Side rail. The thin 20 mm dimension is the print's weak axis — orient
 accordingly. Smallest part in the set at 816 triangles.
 
-[Open the 3D viewer →](stl-files/Side%20Part%28Print%29%20%281%29.stl)
+[Open the 3D viewer →](stl-files/side-cover.stl)
 
 </details>
 
@@ -404,7 +404,7 @@ accordingly. Smallest part in the set at 816 triangles.
 
 Largest footprint in the set. Check it against your bed size before slicing.
 
-[Open the 3D viewer →](stl-files/Chuck_HIcks_Front%20cover%282%29%20%281%29.stl)
+[Open the 3D viewer →](stl-files/front-cover.stl)
 
 </details>
 
@@ -413,7 +413,7 @@ Largest footprint in the set. Check it against your bed size before slicing.
 
 Centre section, spanning front and back covers.
 
-[Open the 3D viewer →](stl-files/Chuck%20Hicks_middle%20cover%282%29%20%284%29.stl)
+[Open the 3D viewer →](stl-files/middle-cover.stl)
 
 </details>
 
@@ -422,7 +422,7 @@ Centre section, spanning front and back covers.
 
 Filename is marked `reprint`; treat it as superseding any earlier back cover.
 
-[Open the 3D viewer →](stl-files/Chuck_hicks_back%20cover_reprint%20%281%29.stl)
+[Open the 3D viewer →](stl-files/rear-cover.stl)
 
 </details>
 
@@ -432,7 +432,7 @@ Filename is marked `reprint`; treat it as superseding any earlier back cover.
 Highest triangle count in the set, and the only part whose units look wrong.
 Verify the scale against the chassis before printing.
 
-[Open the 3D viewer →](stl-files/Lidar%20Mount%28Trophy%29%20%282%29.stl)
+[Open the 3D viewer →](stl-files/lidar-mount.stl)
 
 </details>
 
