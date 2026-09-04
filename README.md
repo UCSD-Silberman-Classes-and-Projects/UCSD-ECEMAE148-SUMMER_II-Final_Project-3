@@ -32,7 +32,6 @@ armed. Start there — see [Quickstart](#quickstart).
 - [The headset](#the-headset)
 - [Tests](#tests)
 - [Printed parts](#printed-parts)
-- [Known issues and gotchas](#known-issues-and-gotchas)
 
 ---
 
